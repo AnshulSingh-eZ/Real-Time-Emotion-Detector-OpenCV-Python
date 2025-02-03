@@ -4,3 +4,4 @@ Offers realtime emotion detector, we can train this model on some larger dataset
 
 Run run.py if camera doesnt opens then run test.py.
 
+Works well under good lightning conditions!!
